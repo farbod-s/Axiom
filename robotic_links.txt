@@ -1,0 +1,4 @@
+1. http://www.socsim.robocup.org/files/2D/
+2. en.sourceforge.jp/projects/rctools/
+3. https://mailman.cc.gatech.edu/mailman/listinfo/robocup-sim
+4. robocuppers.ir
